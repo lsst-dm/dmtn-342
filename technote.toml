@@ -13,7 +13,7 @@ license.id = "CC-BY-4.0"
 state = "draft"
 
 [[technote.authors]]
-name.given = "Andrei"
+name.given = "Andy"
 name.family = "Salnikov"
 internal_id = "salnikova"
 orcid = "https://orcid.org/0000-0002-3623-0161"
